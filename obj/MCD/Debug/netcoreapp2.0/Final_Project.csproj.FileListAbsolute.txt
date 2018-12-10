@@ -1,0 +1,11 @@
+C:\CIDM3312\Final_Project\bin\MCD\Debug\netcoreapp2.0\Final_Project.deps.json
+C:\CIDM3312\Final_Project\bin\MCD\Debug\netcoreapp2.0\Final_Project.runtimeconfig.json
+C:\CIDM3312\Final_Project\bin\MCD\Debug\netcoreapp2.0\Final_Project.runtimeconfig.dev.json
+C:\CIDM3312\Final_Project\bin\MCD\Debug\netcoreapp2.0\Final_Project.dll
+C:\CIDM3312\Final_Project\bin\MCD\Debug\netcoreapp2.0\Final_Project.pdb
+C:\CIDM3312\Final_Project\obj\MCD\Debug\netcoreapp2.0\Final_Project.csprojAssemblyReference.cache
+C:\CIDM3312\Final_Project\obj\MCD\Debug\netcoreapp2.0\Final_Project.csproj.CoreCompileInputs.cache
+C:\CIDM3312\Final_Project\obj\MCD\Debug\netcoreapp2.0\Final_Project.AssemblyInfoInputs.cache
+C:\CIDM3312\Final_Project\obj\MCD\Debug\netcoreapp2.0\Final_Project.AssemblyInfo.cs
+C:\CIDM3312\Final_Project\obj\MCD\Debug\netcoreapp2.0\Final_Project.dll
+C:\CIDM3312\Final_Project\obj\MCD\Debug\netcoreapp2.0\Final_Project.pdb
